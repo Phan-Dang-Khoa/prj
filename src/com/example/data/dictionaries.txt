@@ -1,0 +1,4 @@
+House	Ngôi nhà
+Horse	Con ngựa
+Hi	Xin chào
+Hello	Xin chào
