@@ -1,0 +1,4 @@
+House	Ngôi nhà
+Horse	Con ngựa
+High	Cao
+Height	Chiều cao

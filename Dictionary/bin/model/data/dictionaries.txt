@@ -1,0 +1,2 @@
+House	Ngôi nhà
+Horse	Con ngựa
